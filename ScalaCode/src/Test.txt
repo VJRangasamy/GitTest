@@ -1,2 +1,2 @@
 this is my first line
-deleted second line
+added second line
